@@ -38,6 +38,7 @@
                    ],
     "acquireLayout": "ACQUIRE_TRIGGER",
     "fragments": {
-      "fixed1": "fixed!!!"
+      "fixed1": "fixed!!!",
+      "myid.aswesome-class": "or this!!!"
     }
 }
