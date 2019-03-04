@@ -9,7 +9,7 @@
     "cvcRcSwitcherStyle": null,
     "formOptionalInputs": [ "email", "phone" ],
     "layout": [ "page",
-                ["myid.aswesome-class"],
+                ["myid.aswesome-class", "fixed1"],
                 "HEADER_ADAPTIVE",
                 "INVOICE_ADAPTIVE",
                 "FORM_ADAPTIVE",
@@ -38,5 +38,6 @@
                    ],
     "acquireLayout": "ACQUIRE_TRIGGER",
     "fragments": {
+      "fixed1": "fixed!!!"
     }
 }
