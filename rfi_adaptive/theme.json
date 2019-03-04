@@ -9,6 +9,7 @@
     "cvcRcSwitcherStyle": null,
     "formOptionalInputs": [ "email", "phone" ],
     "layout": [ "page",
+                ["myid.aswesome-class"],
                 "HEADER_ADAPTIVE",
                 "INVOICE_ADAPTIVE",
                 "FORM_ADAPTIVE",
