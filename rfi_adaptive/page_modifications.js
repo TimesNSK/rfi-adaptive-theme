@@ -1,4 +1,6 @@
 $(document).ready(function () {
+	console.log('ff')
+
 	if (typeof SPG_FORM_ADAPTIVE === 'undefined' || !SPG_FORM_ADAPTIVE) {
 		  return
 	}
